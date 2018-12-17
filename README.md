@@ -2,10 +2,7 @@
  
  Android application for managing meals throughout the week.
 
-## Developers
-
-Sean Schlaefli
-sean.schlaefli@gmail.com
+## Screenshots
 
 ## Demo
  
